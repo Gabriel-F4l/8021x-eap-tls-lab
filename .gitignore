@@ -1,0 +1,14 @@
+*.pfx
+*.p12
+*.key
+*.pem
+secrets.*
+.env
+.env.*
+*.log
+*.pcap
+*.pcapng
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
